@@ -8,7 +8,7 @@ from dateutil.relativedelta  import*
 import pytz
 #from yaml import Loader
 
-calendar_filename ='D:\Ai assistane\Project\myfile.ics'
+calendar_filename ='D:\Ai assistane\docs\myfile.ics'
 calendar_datafile = 'D:\Ai assistane\Project\myfile.yml'
 
 class Calendar_skill():
